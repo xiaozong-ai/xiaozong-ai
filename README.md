@@ -14,11 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact&&theme=radical)
-<img src="https://stats.justsong.cn/api/csdn?id=L__james"> 
+## 📊 技术 & 活跃展示
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <!-- Top Langs：Github 主语言 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact&theme=radical" 
+    height="200"
+    alt="Top Langs"
+  />
+
+  <!-- CSDN 统计卡片 -->
+  <img 
+    src="https://stats.justsong.cn/api/csdn?id=L__james" 
+    height="200"
+    alt="CSDN Stats"
+  />
+</p>
+
+---
+
+## 🐍 Github 活跃度
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
