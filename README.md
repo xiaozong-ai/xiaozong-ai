@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact" 
         width="400"
         height="200"
         alt="Top Langs"
