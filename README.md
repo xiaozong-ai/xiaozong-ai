@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         alt="Top Langs"
       />
     </td>
-    <td align="center">
+    <td align="bottom">
       <img 
         src="https://stats.justsong.cn/api/csdn?id=L__james" 
         width="400"
