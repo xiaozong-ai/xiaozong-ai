@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact&theme=default" 
     alt="Top Langs" 
-    style="width:400px; height:180px; object-fit:contain;"
+    style="width:400px; height:190px; object-fit:contain;"
   />
   <img 
     src="https://stats.justsong.cn/api/csdn?id=L__james" 
