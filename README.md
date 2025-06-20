@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact&&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
+</picture>
