@@ -16,21 +16,24 @@ Here are some ideas to get you started:
 -->
 ## 📊 技术 & 活跃展示
 
-<p align="center">
-  <!-- Top Langs：Github 主语言 -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact&theme=radical" 
-    height="200"
-    alt="Top Langs"
-  />
-
-  <!-- CSDN 统计卡片 -->
-  <img 
-    src="https://stats.justsong.cn/api/csdn?id=L__james" 
-    height="200"
-    alt="CSDN Stats"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact&theme=radical" 
+        height="200"
+        alt="Top Langs"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://stats.justsong.cn/api/csdn?id=L__james" 
+        height="200"
+        alt="CSDN Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,4 +46,5 @@ Here are some ideas to get you started:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 
