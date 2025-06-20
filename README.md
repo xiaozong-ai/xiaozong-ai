@@ -14,37 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 技术 & 活跃展示
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact" 
-        width="400"
-        height="200"
-        alt="Top Langs"
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://stats.justsong.cn/api/csdn?id=L__james" 
-        width="400"
-        height="200"
-        alt="CSDN Stats"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🐍 Github 活跃度
+<div style="display:flex; justify-content:center; gap:20px; align-items:center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozong-ai&hide_progress=false&layout=compact&theme=radical" 
+    alt="Top Langs" 
+    style="width:400px; height:200px; object-fit:contain;"
+  />
+  <img 
+    src="https://stats.justsong.cn/api/csdn?id=L__james&theme=dark" 
+    alt="CSDN Stats" 
+    style="width:400px; height:200px; object-fit:contain;"
+  />
+</div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img 
+    alt="github contribution grid snake animation dark" 
+    src="https://raw.githubusercontent.com/xiaozong-ai/xiaozong-ai/output/github-contribution-grid-snake-dark.svg" 
+    style="width:820px; height:200px; object-fit:contain;"
+  />
 </p>
