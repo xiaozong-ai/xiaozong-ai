@@ -79,6 +79,9 @@
 	<li>
 		<b>Research on Forest Fire Detection Technology Based on Deep Learning</b>(<a href="https://ieeexplore.ieee.org/document/9603741">View</a>)
 	</li>
+	<li>
+		<b>一种视频图像暴力行为检测模型及检测方法</b>(<a href="https://s.wanfangdata.com.cn/patent?q=CN202211679196.2">View</a>)
+	</li>
 </ul>
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
