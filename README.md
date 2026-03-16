@@ -77,7 +77,7 @@
 		<b>Recognition of Red Light Running Behavior of Electric Bicycles in Monitoring Video</b>(<a href="https://ieeexplore.ieee.org/abstract/document/9933278">View</a>)
 	</li>
 	<li>
-		<b>Research on Fatigue Driving Detection Based on Computer Vision</b>(<a href="https://ieeexplore.ieee.org/document/9603741">View</a>)
+		<b>Research on Forest Fire Detection Technology Based on Deep Learning</b>(<a href="https://ieeexplore.ieee.org/document/9603741">View</a>)
 	</li>
 </ul>
 <h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
