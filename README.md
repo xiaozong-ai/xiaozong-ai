@@ -10,7 +10,8 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="LabelImg" src="https://img.shields.io/badge/-LabelImg-CC6699?style=flat-square&logo=airtable&logoColor=white" />
   <img alt="CVAT" src="https://img.shields.io/badge/-CVAT-DD0031?style=flat-square&logo=htcvive&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-13aa52?style=flat-square&logo=pytorch&logoColor=white" />
+	<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-13aa52?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
