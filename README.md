@@ -6,6 +6,8 @@
 <p>
 	<img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-45b8d8?style=flat-square&logo=Pycharm&logoColor=white" />
+	<img alt="cplusplus" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="cmake" src="https://img.shields.io/badge/-CMake-548294?style=flat-square&logo=cmake&logoColor=white" />
   <img alt="CLion" src="https://img.shields.io/badge/-CLion-8DD6F9?style=flat-square&logo=CLion&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -19,8 +21,6 @@
 	<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-B7178C?style=flat-square&logo=opencv&logoColor=white" />
 	<img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-CB3837?style=flat-square&logo=ffmpeg&logoColor=white" />
   <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="cplusplus" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="cmake" src="https://img.shields.io/badge/-CMake-548294?style=flat-square&logo=cmake&logoColor=white" />
 	<img alt="apachekafka" src="https://img.shields.io/badge/-Kafka-545C64?style=flat-square&logo=apachekafka&logoColor=white" />
 	<img alt="mqtt" src="https://img.shields.io/badge/-Mqtt-660066?style=flat-square&logo=mqtt&logoColor=white" />
 </p>
