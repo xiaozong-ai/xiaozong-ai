@@ -15,10 +15,10 @@
 	<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-13aa52?style=flat-square&logo=TensorFlow&logoColor=white" />
 	<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-6A5ACD?style=flat-square&logo=opencv&logoColor=white" />
 	<img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-7B68EE?style=flat-square&logo=ffmpeg&logoColor=white" />
-  <img alt="LabelImg" src="https://img.shields.io/badge/-LabelImg-F4A460?style=flat-square&logo=airtable&logoColor=white" />
-  <img alt="CVAT" src="https://img.shields.io/badge/-CVAT-D2691E?style=flat-square&logo=htcvive&logoColor=white" />
-  <img alt="Netron" src="https://img.shields.io/badge/-Netron-FB542B?style=flat-square&logo=notion&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="LabelImg" src="https://img.shields.io/badge/-LabelImg-FFDEAD?style=flat-square&logo=airtable&logoColor=white" />
+  <img alt="CVAT" src="https://img.shields.io/badge/-CVAT-DEB887?style=flat-square&logo=htcvive&logoColor=white" />
+  <img alt="Netron" src="https://img.shields.io/badge/-Netron-CD853F?style=flat-square&logo=notion&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-D2691E?style=flat-square&logo=git&logoColor=white" />
   <img alt="GoldenDB" src="https://img.shields.io/badge/-GoldenDB-764ABC?style=flat-square&logo=glide&logoColor=white" />
   <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 	<img alt="apachekafka" src="https://img.shields.io/badge/-Kafka-545C64?style=flat-square&logo=apachekafka&logoColor=white" />
