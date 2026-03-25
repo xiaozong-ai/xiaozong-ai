@@ -21,7 +21,7 @@
   <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="cplusplus" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="cmake" src="https://img.shields.io/badge/-CMake-548294?style=flat-square&logo=cmake&logoColor=white" />
-	<img alt="apachekafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+	<img alt="apachekafka" src="https://img.shields.io/badge/-Kafka-545C64?style=flat-square&logo=apachekafka&logoColor=white" />
 	<img alt="mqtt" src="https://img.shields.io/badge/-Mqtt-660066?style=flat-square&logo=mqtt&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
