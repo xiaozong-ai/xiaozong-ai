@@ -15,7 +15,7 @@
   <img alt="Netron" src="https://img.shields.io/badge/-Netron-FB542B?style=flat-square&logo=notion&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-E10098?style=flat-square&logo=git&logoColor=white" />
   <img alt="GoldenDB" src="https://img.shields.io/badge/-GoldenDB-764ABC?style=flat-square&logo=glide&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+	<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-B7178C?style=flat-square&logo=opencv&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
