@@ -11,8 +11,8 @@
   <img alt="CLion" src="https://img.shields.io/badge/-CLion-1a73e8?style=flat-square&logo=CLion&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0055FF?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-	<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-43853d?style=flat-square&logo=pytorch&logoColor=white" />
-	<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-13aa52?style=flat-square&logo=TensorFlow&logoColor=white" />
+	<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-98FB98?style=flat-square&logo=pytorch&logoColor=white" />
+	<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-90EE90?style=flat-square&logo=TensorFlow&logoColor=white" />
 	<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-6A5ACD?style=flat-square&logo=opencv&logoColor=white" />
 	<img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-7B68EE?style=flat-square&logo=ffmpeg&logoColor=white" />
   <img alt="LabelImg" src="https://img.shields.io/badge/-LabelImg-FFDEAD?style=flat-square&logo=airtable&logoColor=white" />
