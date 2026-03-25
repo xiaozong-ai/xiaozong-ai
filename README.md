@@ -22,7 +22,7 @@
   <img alt="GoldenDB" src="https://img.shields.io/badge/-GoldenDB-FFC0CB?style=flat-square&logo=glide&logoColor=white" />
   <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-DB7093?style=flat-square&logo=fastapi&logoColor=white" />
 	<img alt="apachekafka" src="https://img.shields.io/badge/-Kafka-FF69B4?style=flat-square&logo=apachekafka&logoColor=white" />
-	<img alt="mqtt" src="https://img.shields.io/badge/-Mqtt-FF1493?style=flat-square&logo=mqtt&logoColor=white" />
+	<img alt="mqtt" src="https://img.shields.io/badge/-Mqtt-FA5DC6?style=flat-square&logo=mqtt&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
