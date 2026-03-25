@@ -4,6 +4,7 @@
 <p>Welcome to my page! </br> I'm XiaoZong, machine learning engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>China</b>. </p>
 <h3>Things I code with</h3>
 <p>
+	<img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-45b8d8?style=flat-square&logo=Pycharm&logoColor=white" />
   <img alt="CLion" src="https://img.shields.io/badge/-CLion-8DD6F9?style=flat-square&logo=CLion&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -19,8 +20,9 @@
 	<img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-CB3837?style=flat-square&logo=ffmpeg&logoColor=white" />
   <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="cplusplus" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="cmake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+	<img alt="apachekafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+	<img alt="mqtt" src="https://img.shields.io/badge/-Mqtt-231F20?style=flat-square&logo=mqtt&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
