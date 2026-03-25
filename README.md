@@ -4,12 +4,12 @@
 <p>Welcome to my page! </br> I'm XiaoZong, machine learning engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13"/> <b>China</b>. </p>
 <h3>Things I code with</h3>
 <p>
-	<img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-45b8d8?style=flat-square&logo=Pycharm&logoColor=white" />
-	<img alt="cplusplus" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="cmake" src="https://img.shields.io/badge/-CMake-548294?style=flat-square&logo=cmake&logoColor=white" />
-  <img alt="CLion" src="https://img.shields.io/badge/-CLion-8DD6F9?style=flat-square&logo=CLion&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+	<img alt="python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Pycharm" src="https://img.shields.io/badge/-Pycharm-8DD6F9?style=flat-square&logo=Pycharm&logoColor=white" />
+	<img alt="cplusplus" src="https://img.shields.io/badge/-C++-46a2f1?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="cmake" src="https://img.shields.io/badge/-CMake-2088FF?style=flat-square&logo=cmake&logoColor=white" />
+  <img alt="CLion" src="https://img.shields.io/badge/-CLion-1a73e8?style=flat-square&logo=CLion&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0055FF?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="LabelImg" src="https://img.shields.io/badge/-LabelImg-CC6699?style=flat-square&logo=airtable&logoColor=white" />
   <img alt="CVAT" src="https://img.shields.io/badge/-CVAT-DD0031?style=flat-square&logo=htcvive&logoColor=white" />
