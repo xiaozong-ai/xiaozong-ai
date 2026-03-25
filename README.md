@@ -19,10 +19,10 @@
   <img alt="CVAT" src="https://img.shields.io/badge/-CVAT-DEB887?style=flat-square&logo=htcvive&logoColor=white" />
   <img alt="Netron" src="https://img.shields.io/badge/-Netron-CD853F?style=flat-square&logo=notion&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-D2691E?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GoldenDB" src="https://img.shields.io/badge/-GoldenDB-764ABC?style=flat-square&logo=glide&logoColor=white" />
-  <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-	<img alt="apachekafka" src="https://img.shields.io/badge/-Kafka-545C64?style=flat-square&logo=apachekafka&logoColor=white" />
-	<img alt="mqtt" src="https://img.shields.io/badge/-Mqtt-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img alt="GoldenDB" src="https://img.shields.io/badge/-GoldenDB-FFC0CB?style=flat-square&logo=glide&logoColor=white" />
+  <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-DB7093?style=flat-square&logo=fastapi&logoColor=white" />
+	<img alt="apachekafka" src="https://img.shields.io/badge/-Kafka-FF69B4?style=flat-square&logo=apachekafka&logoColor=white" />
+	<img alt="mqtt" src="https://img.shields.io/badge/-Mqtt-FF1493?style=flat-square&logo=mqtt&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
