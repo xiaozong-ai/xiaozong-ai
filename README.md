@@ -13,8 +13,8 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 	<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-43853d?style=flat-square&logo=pytorch&logoColor=white" />
 	<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-13aa52?style=flat-square&logo=TensorFlow&logoColor=white" />
-	<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-B7178C?style=flat-square&logo=opencv&logoColor=white" />
-	<img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-CB3837?style=flat-square&logo=ffmpeg&logoColor=white" />
+	<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-6A5ACD?style=flat-square&logo=opencv&logoColor=white" />
+	<img alt="ffmpeg" src="https://img.shields.io/badge/-FFmpeg-7B68EE?style=flat-square&logo=ffmpeg&logoColor=white" />
   <img alt="LabelImg" src="https://img.shields.io/badge/-LabelImg-CC6699?style=flat-square&logo=airtable&logoColor=white" />
   <img alt="CVAT" src="https://img.shields.io/badge/-CVAT-DD0031?style=flat-square&logo=htcvive&logoColor=white" />
   <img alt="Netron" src="https://img.shields.io/badge/-Netron-FB542B?style=flat-square&logo=notion&logoColor=white" />
